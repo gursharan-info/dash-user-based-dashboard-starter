@@ -1,0 +1,481 @@
+gender,enquiry_type,enquiry_month,uuid,conversion,user_id,is_admin
+F,Email,Feb-2020,00875a35-40ec-4339-9cda-1205bb9f6287,Converted,4,0
+F,Email,May-2020,009cf786-79ca-4db6-84c6-14f5a25598ca,Converted,3,0
+M,Web Enquiry,Jan-2020,00e32cfb-8e25-4bc8-9c32-ed121bafe19f,Converted,3,0
+M,Walk-in,Feb-2020,01bb8b98-427d-4b93-8996-d2e78b85b1c7,Converted,2,0
+M,College,Feb-2020,029ecf04-8c2a-41b8-bdb4-68a4a01df75e,Converted,2,0
+M,Web Enquiry,May-2020,02b5a132-bae8-433a-829e-e156fd384fa9,Enquiry,1,1
+F,College,Mar-2020,0377d14b-11da-4fd9-9131-35475e685684,Enquiry,2,0
+F,Social Media,Jan-2020,05a883fa-b0f7-43e6-b251-8be37a1de1aa,Converted,6,0
+M,Web Enquiry,Mar-2020,05f3d698-3c75-4bae-9a4b-32c3bffc1bfe,Converted,4,0
+M,Social Media,May-2020,06047809-c015-464f-8e66-32bf28391433,Converted,4,0
+F,Social Media,Jan-2020,0668091e-fadb-46f9-a9fd-6d4832b1732f,Converted,2,0
+M,College,Jun-2020,074ae168-549f-4abb-b5d0-e128ae793c95,Converted,2,0
+F,Web Enquiry,Feb-2020,082f11cd-6441-4f3f-96c7-1c4fddd68363,Converted,3,0
+F,Phone,Feb-2020,086488a9-96eb-4bd6-9bf9-fee20b06146b,Converted,1,1
+M,Email,Jan-2020,08ef508c-c559-419a-9d88-a6d115097967,Converted,3,0
+M,Email,Jan-2020,099fbfd6-137d-4ec9-b152-3484c6c63830,Enquiry,5,0
+F,Walk-in,Jun-2020,09f70842-b8b7-4dc2-b72d-3e9104adda8a,Enquiry,4,0
+F,Web Enquiry,Apr-2020,0abb9a74-02ab-4d3f-a874-faf71e12d521,Converted,2,0
+M,Social Media,Jun-2020,0af808f0-9f56-4f36-93b2-020a4463104a,Converted,4,0
+M,College,Apr-2020,0c59f3fa-e1a6-4a52-9ba8-88574ff091b5,Converted,1,1
+F,Web Enquiry,Apr-2020,0cf10043-1e2d-494e-9949-257f8fc7b6c7,Converted,5,0
+M,Walk-in,Jun-2020,0d21c0d6-4f70-422b-86e9-1b55fdd63367,Converted,2,0
+M,Web Enquiry,May-2020,0f3f7a79-2014-4d6f-b440-e0e89a13b752,Converted,5,0
+F,College,May-2020,0f8a32db-504d-4309-888e-cab6402abc37,Converted,3,0
+M,Social Media,Jun-2020,0fe6d26e-5556-4c06-b52a-2689f31f6cf6,Converted,3,0
+M,Phone,Mar-2020,10c6c0ed-799a-477f-b4fb-71c6153ec815,Converted,5,0
+M,Social Media,Feb-2020,11598cff-8521-4c34-a4ae-051e3e473635,Converted,5,0
+F,Email,Jan-2020,11865684-a89f-4e90-afa0-1f393ee38f03,Converted,6,0
+M,Social Media,Apr-2020,122b0c23-bc42-4bf3-ac56-5fc63649a056,Converted,3,0
+M,Email,May-2020,125f7ae4-e4f7-41e0-8cbf-18bb3b7d0cf5,Converted,4,0
+F,Email,May-2020,132b927c-944b-43ef-97a2-b4544152c811,Converted,5,0
+M,Email,Mar-2020,133865b4-4665-4a2a-877f-5ba07fd3d736,Converted,3,0
+F,Walk-in,Jun-2020,146a814a-ce43-4b7e-a5a0-78d256783e7d,Converted,3,0
+M,Phone,Mar-2020,147f4319-5f46-447a-a9bd-f2873da9e41c,Converted,1,1
+M,Email,Jan-2020,1496d060-8811-49bd-8836-abc6cebf3caa,Converted,1,1
+M,College,Feb-2020,15908ffe-b2f8-4544-b223-c18dd026f9fe,Enquiry,2,0
+F,Web Enquiry,Apr-2020,15d686c9-3a10-408e-8eca-4504e44f89d6,Enquiry,3,0
+F,Walk-in,May-2020,15df8968-1e57-47d1-9a6c-f775f8ef157c,Converted,2,0
+F,College,Jun-2020,16127b1e-6a74-41ce-986a-18ea444e59fc,Converted,6,0
+F,Web Enquiry,Mar-2020,173bf3d0-a84e-4873-8efe-84ed47555c13,Enquiry,4,0
+M,Social Media,Feb-2020,18b43b29-4b1f-4e08-bf69-a0c0f17f8d31,Enquiry,1,1
+F,College,Feb-2020,19676270-ad22-4a70-99df-8d21515c6145,Converted,5,0
+M,Web Enquiry,Feb-2020,199f6341-0559-4311-9345-b5a04d17b815,Enquiry,1,1
+M,Web Enquiry,May-2020,1aad71de-9671-482f-afb1-02ae47b88e58,Converted,2,0
+F,Web Enquiry,Mar-2020,1ce42e9d-490e-4e03-934f-31aadca47489,Enquiry,3,0
+M,Walk-in,Feb-2020,1d461042-778b-4f94-b884-3d9524e21045,Converted,3,0
+F,College,Mar-2020,1f31c702-f519-49d7-ba7a-8dc9168dddc1,Converted,4,0
+M,College,Feb-2020,1f4b8d6f-582c-4312-a403-6a88762b27ca,Converted,5,0
+M,Phone,Jan-2020,1f592707-857b-4132-8ba0-e2ae01047e49,Converted,2,0
+F,Social Media,Jun-2020,206bd131-2025-4445-9746-0f5ea9b53da0,Converted,1,1
+M,Web Enquiry,Jun-2020,20b8a904-2b08-4379-94e0-e798942bd7ce,Converted,1,1
+M,Phone,Jan-2020,20eb79f9-e252-4d7b-a4cf-36b5ec26bb32,Converted,6,0
+M,Phone,May-2020,20ebc842-6bd6-4cf6-ac0b-026609f91704,Converted,3,0
+M,College,May-2020,21071073-770f-464c-b1ea-227d8d5ab6f5,Enquiry,6,0
+M,Email,May-2020,21a1113e-eb73-477b-b085-720bb082acaa,Converted,2,0
+F,Web Enquiry,Jan-2020,236583f2-4933-417e-a259-5b56600d5c37,Enquiry,5,0
+M,Phone,Feb-2020,239872cc-80a5-4929-96dd-64680bc9891f,Enquiry,2,0
+M,Phone,Mar-2020,2543e7e2-f95e-4fb1-85f2-04dc4c778e89,Converted,3,0
+M,College,Feb-2020,26a49f29-37fa-4188-93c5-cccf765a1e96,Enquiry,5,0
+F,Walk-in,Mar-2020,270fa0b5-aecf-4b19-b40f-4fd98a963718,Converted,1,1
+M,Email,Mar-2020,284c86cc-a303-4d37-aa17-ee3338b43418,Enquiry,5,0
+M,Walk-in,Mar-2020,28d9ead6-ea1c-4408-9c8b-a3c10d1230c4,Converted,5,0
+M,College,Jan-2020,28de0ef4-4447-4fb8-b2b1-40e3042122a8,Converted,5,0
+M,Email,Apr-2020,292cd12e-a4a6-4358-8c3b-fff8715b05a6,Converted,6,0
+M,Walk-in,Apr-2020,2ab7946b-a9b5-4f40-94da-dff44171c40f,Converted,4,0
+M,Social Media,Mar-2020,2b122114-60fd-43b8-a4d4-e79f91cb898b,Enquiry,4,0
+M,Web Enquiry,Apr-2020,2b9d38e7-c623-4d8c-8569-e11abaa2649f,Converted,2,0
+M,Social Media,Mar-2020,2bb16215-0292-4d0c-88a1-6f70c5b0a9a6,Converted,5,0
+M,Social Media,Jun-2020,2c4e9a2b-e86d-456c-a720-acc8e8af059e,Converted,5,0
+F,Social Media,May-2020,2c625d3d-4c00-4ac5-877b-5414caf104a4,Enquiry,6,0
+M,Phone,Mar-2020,2cc8b4e7-6375-4e26-aae2-c6abd2e9b764,Enquiry,2,0
+M,Web Enquiry,Feb-2020,2cd78270-a603-4284-a0e3-87a1fd6dbe5b,Converted,6,0
+M,Web Enquiry,Mar-2020,2ceef207-3aa8-4623-965d-dcf5de903655,Converted,2,0
+M,Web Enquiry,May-2020,2d426c45-9d4c-4ed3-9574-6f65199e93e8,Converted,6,0
+F,Web Enquiry,Jan-2020,2e5155db-a249-443e-bf85-14a35bc274c5,Enquiry,6,0
+F,Social Media,Feb-2020,2e7773d0-75b9-466f-ba71-616760010813,Converted,4,0
+F,Phone,Jan-2020,2ef6fe2f-270d-475b-b29d-df7ab197c64d,Converted,4,0
+M,Phone,May-2020,2f6ed71b-afbf-436a-bb10-fda96ecff511,Converted,3,0
+F,Email,Jun-2020,2f8c24fc-1c97-44b4-bfd8-81a650dcc5d4,Converted,3,0
+F,College,Apr-2020,2ff3ae1b-8e9a-4fab-b748-80b1c4267572,Converted,6,0
+M,College,Apr-2020,30b986b2-85d3-43f3-81f8-7e314a785f00,Converted,5,0
+M,Social Media,Jun-2020,30eb31d2-4b9a-4803-93fb-9a83163d3ece,Converted,5,0
+M,Web Enquiry,Jan-2020,3122b5a8-853a-4e0e-aec9-69c7991b6045,Converted,3,0
+M,Web Enquiry,Feb-2020,321bb6cb-1a68-42c8-85c0-95f0d73f9938,Converted,4,0
+M,Walk-in,Jun-2020,33009aec-31ca-41b1-9d9e-65d9b71e456c,Converted,5,0
+F,Web Enquiry,Apr-2020,330f77f0-9bbe-421d-a104-e2311bec530d,Converted,2,0
+M,College,Feb-2020,33f5e94c-c949-4eae-89c0-26e04bffbd86,Converted,1,1
+M,Social Media,Apr-2020,34329c9f-ff55-412a-a4aa-983ef153df3b,Enquiry,1,1
+F,College,Feb-2020,3440e1a9-4665-4567-b7ad-93b769856827,Enquiry,4,0
+F,Social Media,Apr-2020,34e6e97f-b368-40df-928e-5abef1d850c2,Enquiry,6,0
+F,Web Enquiry,Mar-2020,359a1772-d2fc-402c-9ea9-878e3d3de744,Converted,3,0
+M,Email,Apr-2020,35a03a71-f45d-496c-b030-956be852cb7e,Converted,3,0
+M,College,Jan-2020,3607b09d-b630-46db-ab6b-09d06316a516,Enquiry,5,0
+M,Social Media,Jan-2020,3636b37d-80f6-4f43-9202-5638a56aca06,Converted,3,0
+M,College,Apr-2020,36ab0a37-4002-4562-b51e-c810b25640b9,Converted,5,0
+M,Phone,Mar-2020,37a667c0-0e23-431c-be45-4f566e38ce53,Converted,4,0
+M,Phone,Apr-2020,39b79eb2-0d39-43da-8596-4f0efd4876bc,Converted,5,0
+M,Email,Mar-2020,3a191dc5-0729-4fc7-a3b4-cd1566af12c8,Converted,4,0
+F,Walk-in,Apr-2020,3a1be863-8dcd-43ef-95da-026c2c751797,Converted,5,0
+F,Social Media,Jun-2020,3aa22bbb-13df-424e-8bb7-d32fd700553b,Enquiry,1,1
+F,Walk-in,May-2020,3ac46fe1-5a89-435f-82b4-782a7a848c56,Enquiry,6,0
+M,College,May-2020,3acaa505-a464-45d2-9412-fa01b735e1cf,Converted,1,1
+F,College,Apr-2020,3b7b3039-9eb5-4921-ac01-ca66a717ac68,Enquiry,1,1
+M,Social Media,Jan-2020,3b8fc771-5c6e-4105-9541-f36333b58c73,Converted,4,0
+M,Email,Apr-2020,3ccf85f3-dbbd-466a-9120-227b7818d807,Converted,2,0
+F,Web Enquiry,Jun-2020,3d08e2d9-f545-47a5-b8f2-6fb526459bf8,Converted,1,1
+F,Web Enquiry,Mar-2020,3d1542e2-6828-40cf-b618-dfe4f884f0cb,Converted,6,0
+M,Phone,Feb-2020,3d4e6ade-e44e-41f5-aaff-b2bb4e7e16ef,Enquiry,5,0
+F,College,Jun-2020,3d5c3007-02ee-4674-a3c7-bace0ba00ddc,Converted,6,0
+F,Web Enquiry,Apr-2020,3e263beb-be5e-4b49-862f-6076b2c5023c,Converted,4,0
+M,Email,Jun-2020,3e358fab-80cf-48ff-ac27-5af7f8092665,Converted,3,0
+M,Walk-in,Jan-2020,3e9b30cd-f71c-415d-b0f8-42db5c6915fa,Converted,3,0
+F,Email,Mar-2020,3ef6bb0b-90df-4487-be54-95726c7593ec,Converted,6,0
+M,College,Mar-2020,3f23c517-3b9d-438c-b534-d5cc3174ccb6,Converted,3,0
+M,Social Media,Apr-2020,3f70f7e3-75e7-45b9-92c1-570a6ca751b2,Converted,3,0
+M,Phone,Apr-2020,3fa121fc-87f8-439d-b00b-37c1c21e2ab8,Converted,3,0
+F,Walk-in,Apr-2020,3fb3e2b6-be6b-4842-8fc1-17c5e08843c7,Converted,6,0
+F,Social Media,Feb-2020,4028e2ad-c005-44ba-973d-5e80f76ddebd,Converted,4,0
+M,Email,Jan-2020,4085869b-8c81-430a-8c3c-6a684326047a,Converted,3,0
+M,College,Mar-2020,40aa1967-ac75-454a-8516-b7de1c6b9196,Converted,2,0
+M,Phone,Jun-2020,41a5f399-ad2a-4e20-9f94-cd176a7ec475,Converted,6,0
+M,Phone,May-2020,41e881dd-7fbe-4065-808f-6725bda2ae6a,Enquiry,6,0
+M,Walk-in,Jan-2020,438118f0-4a2e-41be-af35-03a0ab154a36,Converted,6,0
+F,Email,Feb-2020,43a661ac-52b7-453d-9f13-735883edb38a,Converted,3,0
+M,Social Media,May-2020,43efd886-665d-4718-a0a6-2481c205b1a9,Converted,1,1
+F,College,Feb-2020,44897043-d38c-401d-9e68-26b5204b251b,Converted,1,1
+M,Phone,May-2020,452f06ee-834e-41bb-bb6d-f407d25c94ef,Converted,1,1
+F,Email,Mar-2020,45ad1d5b-512c-49b0-a110-9bcb13a776d5,Converted,3,0
+F,Web Enquiry,Jun-2020,4601aee0-80d4-4502-8669-7b8a35435372,Enquiry,1,1
+M,Web Enquiry,Jan-2020,46b0b536-ebe3-4540-aa76-1fd7bcef16fa,Converted,2,0
+M,Phone,Apr-2020,47440a70-4625-425a-8a64-2b80f590f55e,Enquiry,3,0
+F,Email,Jan-2020,47645b62-654e-43f1-a5d0-5169075f7a82,Converted,1,1
+M,College,Mar-2020,478f7168-114f-429c-9488-12854cefa344,Converted,2,0
+M,Email,Jan-2020,482fc6e4-5a52-4c6b-80da-77ec0f5588ec,Converted,1,1
+M,Walk-in,Apr-2020,48aa4a5a-da00-4ddf-9d61-67fcecb9c998,Enquiry,3,0
+M,Web Enquiry,Mar-2020,48ea38ae-fb93-49b2-8eb8-cc08a0580146,Converted,2,0
+M,Web Enquiry,Jan-2020,49bce634-2ffb-4b75-8caf-7fb82143f279,Converted,4,0
+F,Social Media,Jun-2020,49d20c00-bd68-466d-a6ac-51dd95410b8a,Converted,4,0
+M,Web Enquiry,May-2020,4a7e1fd5-c63b-44d6-bcb6-c7ea9dfa026a,Converted,3,0
+M,Social Media,Apr-2020,4afc51fe-d538-4bf3-9de7-914bdc1437a5,Converted,3,0
+M,Phone,May-2020,4cecaa59-480c-4d97-a219-6a96f0bd805c,Converted,2,0
+F,Walk-in,Feb-2020,4df69bfa-88a9-4e96-a4ed-9aca1b683c3c,Converted,6,0
+M,College,Feb-2020,4e70b267-d5b0-4db3-971b-ee800d6e769b,Converted,3,0
+M,Phone,Apr-2020,4e75c0dd-9da7-404f-9c7b-fe2535e41d23,Enquiry,1,1
+F,Phone,Mar-2020,4e7ecfb9-ef53-4401-a7a4-24ba99d6a189,Converted,5,0
+F,Email,Jan-2020,4ec0077c-e433-4a72-bbc8-3de9977bd128,Converted,6,0
+F,Web Enquiry,Jun-2020,4f245e21-ba6b-4e83-af37-daa8233462b8,Enquiry,5,0
+M,Web Enquiry,Jun-2020,4f68be48-a1df-4654-b36b-10ad0f0165f4,Converted,2,0
+F,Phone,Mar-2020,4fd20028-99bf-415f-8aef-5ccdeece3c75,Converted,1,1
+F,College,Jan-2020,508c8407-b380-4427-b499-b9abb0b80e7b,Enquiry,4,0
+M,Social Media,May-2020,51a127f1-fb7b-4ade-a24c-9a66d17b80b4,Converted,2,0
+M,Walk-in,Feb-2020,521d9eec-e1a6-4d5a-9a0f-3346beaac739,Converted,2,0
+M,Phone,May-2020,525183c4-5357-4327-ab2e-6bb1e36159c8,Enquiry,3,0
+M,Email,May-2020,5363896d-5f1b-4492-98e4-17de4cf0159a,Enquiry,3,0
+M,Web Enquiry,Jan-2020,5389cdad-569c-4bd0-a25c-7221d05d012d,Converted,1,1
+M,Walk-in,Feb-2020,53e680c2-0ae6-4e94-8584-681185a20778,Converted,6,0
+M,Phone,May-2020,541ac752-16a0-49d9-9faf-601df1ea4418,Converted,6,0
+F,Walk-in,Feb-2020,5468c8ca-92d0-4c0f-87b6-fc75a53f7b5e,Enquiry,6,0
+M,Web Enquiry,Apr-2020,54e13196-65e5-458b-951f-2e3a526677cb,Converted,4,0
+F,Phone,Feb-2020,54fd7986-db82-417d-92d9-dad6f634105a,Converted,3,0
+F,College,Jan-2020,5675f9f6-850c-4073-b9a1-836c4629123b,Enquiry,5,0
+F,College,Feb-2020,56980bca-9d8c-4311-9ba0-59b4cfcece16,Converted,2,0
+F,College,Mar-2020,58e3b03d-d60b-4455-b6a6-6ef5e813871e,Converted,3,0
+M,Phone,May-2020,5947b2e4-1202-4a40-bf6d-1bb69d3dd225,Converted,3,0
+M,Social Media,Mar-2020,594e573a-82c2-4c6b-9b3b-a9d2ca756855,Converted,6,0
+F,Phone,Apr-2020,5b30e5f5-f749-4ea0-a219-fcc4b6c266bd,Converted,6,0
+M,Email,Jan-2020,5db4dcf6-b91d-4164-8bd1-7f44a71e16b4,Enquiry,2,0
+M,Web Enquiry,May-2020,5e69312d-213e-4f81-9739-91f9990d6c3d,Converted,4,0
+M,Email,May-2020,5e6a9ff3-4940-4f86-8408-5e9140ead816,Converted,1,1
+F,College,Feb-2020,5e97c4fa-8ff9-4a2e-865f-7f1eccc9faa6,Converted,6,0
+M,Social Media,May-2020,5ed8262b-e448-4d04-9840-5e02dca259e6,Converted,6,0
+M,Walk-in,May-2020,5f21f963-57fe-40b4-9006-ef10e7c6c7e6,Converted,1,1
+F,Social Media,Apr-2020,5f9bb4aa-6ae4-456c-b6a0-8426f9a0375f,Converted,1,1
+F,Walk-in,Feb-2020,60b65d70-c8d0-45a2-a366-0289b3641fa3,Enquiry,6,0
+M,Walk-in,Mar-2020,61294929-025e-45db-b821-66d2d40bde04,Converted,2,0
+M,Social Media,Mar-2020,616e290b-7a61-496a-9b86-2af98183c8bf,Converted,3,0
+F,Web Enquiry,Apr-2020,61786371-b031-46e6-a8a9-c2683ec0b21b,Enquiry,5,0
+M,Social Media,Mar-2020,61c950e4-a9ec-472d-9c3c-462523a9105e,Converted,3,0
+M,Phone,Apr-2020,61efb7b7-5eb1-453f-8445-51cb4b18266c,Converted,3,0
+M,College,Jun-2020,626e9fa9-9138-4031-b45d-acf5600986d2,Converted,6,0
+F,Email,Jan-2020,628874ed-fc63-4630-a7ef-8b676b910e3a,Converted,4,0
+M,Email,Jan-2020,632a4e21-2800-4c3f-949d-8fd974f0b2c7,Converted,3,0
+M,Web Enquiry,Mar-2020,637782ea-b673-43d2-adbb-20e7eb791627,Converted,5,0
+F,Social Media,May-2020,645ac6a0-77fc-4334-bb98-c2563335d588,Enquiry,4,0
+M,Phone,Feb-2020,64ae44f0-7552-4b21-a91d-7c2c82faa8d6,Converted,5,0
+M,College,Jan-2020,659f5099-3529-4b8d-9614-80350974ddfc,Enquiry,3,0
+M,Phone,Feb-2020,65bafd04-65ed-42e9-ad7c-2558a7b54736,Converted,5,0
+M,Web Enquiry,Jun-2020,65f68471-5009-4f03-b702-b6539a0b39c1,Converted,3,0
+M,Phone,Jun-2020,6614401e-3dfb-45f7-9e02-5a9316482472,Converted,1,1
+M,Web Enquiry,Apr-2020,663836e5-6851-42fb-9e53-f358151642b8,Enquiry,4,0
+M,College,Feb-2020,667d8717-b508-4057-84a3-80c6f0313541,Converted,2,0
+M,College,Apr-2020,66aaa887-5ec7-4fee-9fff-a47b3c9adf68,Enquiry,1,1
+F,College,Feb-2020,66c80382-f778-46c0-8eac-7320464cf533,Converted,1,1
+M,Phone,Feb-2020,670ecffd-8fcf-4b98-b15e-04ccb1bccd24,Converted,1,1
+M,Web Enquiry,May-2020,67909350-1b19-4e80-97be-c4fd4d4c164f,Converted,3,0
+M,Walk-in,Mar-2020,690bd069-cf76-4ffc-905d-e2f082745286,Enquiry,3,0
+M,Email,Jun-2020,695469f4-ba68-465b-8531-149e4e7b61d0,Converted,6,0
+M,Phone,Mar-2020,69bb62e9-273c-4a1d-8cac-d5bfe352d185,Enquiry,4,0
+M,Email,Feb-2020,69f8d62b-cc58-4592-9c37-400177f91c64,Enquiry,6,0
+M,Web Enquiry,Jun-2020,6a3b9f7f-d63f-4214-8164-1850c560f2f2,Converted,5,0
+M,Web Enquiry,Jan-2020,6bbaa4e6-c7df-461e-b6b8-b0147cb75b0f,Converted,2,0
+M,Phone,Mar-2020,6bd5f46a-f794-4c29-b1cd-fb9af114ccca,Converted,4,0
+M,College,Jan-2020,6c8de475-6ceb-42af-813b-47ae7e7e5b8d,Converted,5,0
+M,Walk-in,Jun-2020,6d16ff20-acfc-4a17-8f46-17d069e8858e,Converted,3,0
+M,Social Media,Jun-2020,6e71ef70-f88a-4850-8a09-80cbb0004469,Converted,3,0
+F,Walk-in,Mar-2020,6edf97d8-2f71-4386-a6f6-2b2ac22d7d97,Converted,5,0
+M,Email,Jun-2020,6f023c39-2c72-45a8-b9b7-b1d7096ce00a,Converted,4,0
+M,Web Enquiry,Feb-2020,6ffb86d4-4d51-4dff-9747-daa6a0770d4b,Converted,1,1
+M,Phone,Jun-2020,7248b15f-2c2e-4d16-a6f7-fc4a0ee766f9,Converted,3,0
+F,College,Feb-2020,72815721-8fd0-4a13-b13e-e2652923ecc0,Converted,6,0
+F,Social Media,May-2020,72fd4bc7-ce0d-4cc3-8d7d-4e38fac943e0,Converted,1,1
+M,Web Enquiry,Jan-2020,736ce70c-1201-432c-8dbc-bf2b071e8930,Converted,1,1
+F,Email,Feb-2020,736eb339-dda7-4ba3-a34f-32809deb3cdc,Converted,6,0
+M,Email,Jan-2020,738a5540-d7ab-4686-9670-e55be7890163,Converted,5,0
+M,Phone,Apr-2020,73e3b302-2ec2-4b72-bebc-927780d87d8e,Converted,4,0
+M,Web Enquiry,Jan-2020,749fc994-3077-47e7-a88f-1ee6ebf8a1ed,Enquiry,4,0
+F,Walk-in,May-2020,7507961f-a4d5-48c3-9183-8c1b9d638e66,Enquiry,2,0
+F,Phone,Jun-2020,755f318e-2b34-416f-a9f0-ba2fe07c4994,Converted,4,0
+M,Walk-in,Jun-2020,75e44fd1-267d-4aa4-9e5f-377b728c0296,Enquiry,2,0
+M,Email,Apr-2020,75ecc053-f8b6-4039-b8ca-9e0b5141e1a8,Converted,1,1
+F,Phone,Jan-2020,7606bd94-9c9d-4454-9c6c-6ed806a9c63c,Converted,4,0
+M,College,Apr-2020,7844221a-f0de-433f-862f-0ca776b933f7,Converted,6,0
+M,Social Media,Mar-2020,78636b15-d851-4254-93ec-e8775b094ffe,Converted,3,0
+F,Web Enquiry,May-2020,78ca7fda-3b11-46ac-9a1e-2095fec808c2,Enquiry,2,0
+F,Walk-in,May-2020,791474e6-df95-4bc2-a53b-ff2b2b331ed8,Converted,2,0
+M,Web Enquiry,Jun-2020,7a51341a-4c58-4ba0-8c41-faebd6fe4712,Converted,2,0
+M,Email,Jun-2020,7a6d1d43-e751-47e5-a7ea-d0b18deb6a4b,Enquiry,4,0
+M,Web Enquiry,Jun-2020,7abe4e61-6e22-4aa9-84d1-9a7b15ad37f3,Converted,4,0
+F,Social Media,Apr-2020,7d618bc3-9b04-40d7-be44-45fa141c719d,Converted,4,0
+M,Walk-in,Feb-2020,7da79efc-5022-4c99-adff-a2e3c8d6768a,Converted,3,0
+F,Social Media,Apr-2020,7ddcad6d-62e8-4160-9df1-dc211e0ee8a6,Enquiry,4,0
+F,Phone,Mar-2020,7e3c3538-a75d-4b04-9e43-3e1e21c9a89a,Converted,4,0
+M,Web Enquiry,Mar-2020,7e472f4f-ee3e-46a0-9cf9-ba16fddfd915,Converted,3,0
+M,Phone,Jun-2020,7e85e0e7-ba3d-4939-a110-0f193c8bf1e6,Enquiry,5,0
+M,Phone,Feb-2020,7e98091e-5ace-446f-b574-116782f48555,Converted,5,0
+F,Walk-in,Feb-2020,7fbe7fc2-19ba-46f6-b220-75296656a9db,Converted,3,0
+M,Phone,Jun-2020,7fd8c112-b3f4-424e-b74b-75f759413d5c,Converted,5,0
+F,Walk-in,Mar-2020,7fda0221-bede-4139-b625-a26713bfe792,Converted,5,0
+M,Phone,Mar-2020,80257992-b42a-44d1-b4d0-eed4a2d53d0a,Converted,2,0
+M,Phone,Apr-2020,80d7e6b0-7450-4506-bfaf-4fbe40103f1a,Converted,1,1
+M,Web Enquiry,Apr-2020,825608a2-abc5-4b8b-ba1d-93f79fec4107,Converted,1,1
+M,Phone,Jan-2020,82fb8f1d-d697-4bb3-8559-aca9b9b8a845,Converted,1,1
+F,Walk-in,Jun-2020,832d30f0-1e0a-4df1-82e9-b4f2b6fbd50d,Enquiry,2,0
+M,Email,Jun-2020,8335d186-7aa1-4117-8254-999edf573613,Converted,4,0
+M,Web Enquiry,Jan-2020,83c5ad7b-5a39-41c2-a7ea-bf8341b14797,Converted,4,0
+F,Web Enquiry,Jan-2020,83e0ec66-3ca5-4d90-b461-782741f0e678,Converted,3,0
+F,College,Mar-2020,8455eb49-56c5-4ffd-a0ce-7198665e0b7f,Converted,5,0
+M,Social Media,May-2020,849f170f-1e90-4880-ba80-796e69634770,Converted,4,0
+F,Phone,Apr-2020,84b1af14-4500-4fd9-82fb-c2768d1622cd,Enquiry,3,0
+M,Walk-in,Jan-2020,85c02889-7f4f-459a-8ab0-8ff2469bcbb2,Converted,5,0
+F,Phone,Mar-2020,85e85b03-bd2b-4fe8-8f9c-73321c537997,Converted,4,0
+M,Web Enquiry,Feb-2020,85f82ce9-7e1c-4958-aa7c-c0b6a0d21aae,Converted,3,0
+F,College,Jun-2020,86154077-2a18-47e8-902e-3322e7c1f398,Enquiry,1,1
+M,Walk-in,Apr-2020,8785a4e4-099d-40ae-9de4-2cd71c45f7d3,Enquiry,1,1
+F,College,Jan-2020,8793426b-8c15-4346-a863-604501b74a32,Converted,2,0
+F,College,Mar-2020,881df715-6cd3-4f07-b176-3e40057809d9,Enquiry,6,0
+M,Email,Feb-2020,884cfbea-79b6-4bd1-8094-705c16b68bd5,Converted,1,1
+M,Email,Feb-2020,88bdc651-fb2f-47df-8a9f-4338ac9933a2,Converted,6,0
+M,Phone,Jun-2020,88be56ba-ba86-47a8-9a9e-87676c805bd1,Converted,5,0
+M,Web Enquiry,Mar-2020,895155f8-51b4-4d4f-9cf7-44a818f6bb93,Converted,4,0
+M,Walk-in,Jun-2020,89c141b2-b82e-4490-9b0b-7c8d51ba9d01,Enquiry,3,0
+M,Web Enquiry,Apr-2020,8a0731eb-88ea-4700-a79d-c25ef7daa92e,Enquiry,5,0
+M,College,Jun-2020,8a52f1f8-b66f-4959-82f1-de17fd506e4f,Converted,4,0
+F,Phone,Feb-2020,8a66f025-4f6e-4c92-846d-260a1322c27c,Enquiry,1,1
+M,Email,Apr-2020,8af88ff5-ca68-4e7a-8b64-e42e6437c9f5,Converted,3,0
+M,Web Enquiry,May-2020,8bf87fa9-f7e5-4912-ac2b-fca648945797,Converted,4,0
+M,Phone,Jun-2020,8c31a8e1-8615-4759-bbcc-51323050c539,Converted,3,0
+F,College,Feb-2020,8d20a031-90d2-4e1a-b8d6-df275e7f6929,Enquiry,4,0
+M,Email,May-2020,8d6d830b-0efb-4541-8103-05317cdda175,Enquiry,4,0
+M,College,Jan-2020,8d6ea462-9dba-4f0c-b264-24cf6b424131,Converted,1,1
+M,College,May-2020,8d8df1c3-1a8c-4b69-b846-4f571467e8e1,Converted,5,0
+M,Walk-in,Apr-2020,8e1708ad-fc24-4718-9e6c-f78528ded440,Converted,6,0
+M,Walk-in,May-2020,8e1c0825-3c26-47b4-af2c-43c5ede279b3,Converted,5,0
+M,Phone,Mar-2020,8e754b74-68a2-47b4-8d1a-5453ad63cace,Enquiry,2,0
+M,College,Feb-2020,914a00e1-dd0d-491e-8757-8fac14ab13c0,Converted,5,0
+F,Phone,Feb-2020,922199ce-b7ec-4360-bc35-f3b704b5fbba,Converted,1,1
+F,Web Enquiry,Feb-2020,92582551-65a1-48d9-b953-d9582ca4075e,Converted,5,0
+M,College,May-2020,9280c8ea-5a8f-493c-a8c2-0b6386574004,Converted,4,0
+F,Social Media,Mar-2020,9305f9a2-10c0-4398-845e-b9dd838a9af9,Converted,6,0
+F,Social Media,Jan-2020,93dcfd44-3bd9-40bd-9c0a-6861fccfaf98,Converted,3,0
+F,College,Jun-2020,94ef9d11-7e5c-41d5-9628-80f1d7bccfc2,Converted,2,0
+M,Social Media,Jan-2020,9643b6f2-c0e6-464a-98c0-eae53430e654,Enquiry,5,0
+F,Social Media,Jan-2020,96809185-ed8a-4c5b-9fe5-5f9425ed708c,Enquiry,6,0
+F,College,Mar-2020,972d2dbb-84e4-4a91-8c39-8d908a2a0bd8,Converted,3,0
+M,Phone,May-2020,97af8997-0dd8-4f4b-a80f-02b2aa9bc767,Enquiry,4,0
+F,Web Enquiry,Feb-2020,9827eb8e-7319-4d37-9ccf-1cc6bd0612d3,Converted,1,1
+M,Walk-in,May-2020,9909dd38-7394-459b-8cc0-a1eb3ae36df0,Converted,1,1
+M,Email,Jun-2020,9a765413-1ff2-4070-b89b-d97b865c1495,Converted,3,0
+M,Social Media,Jan-2020,9a7f666c-13da-4ebe-b412-276e80a10291,Converted,3,0
+M,College,Mar-2020,9bc1b331-9db8-4450-a455-0823b0833ded,Enquiry,3,0
+M,College,Jan-2020,9bd53c47-2bda-43fa-a7c0-9b90bfa109f7,Enquiry,3,0
+M,Email,Mar-2020,9c5daa9d-3681-4f81-aa41-9a99297a490e,Enquiry,6,0
+M,Email,Mar-2020,9c88a670-31ab-4eec-999d-f5f326fdc899,Converted,6,0
+F,Email,Feb-2020,9d035820-4c22-4461-a6d3-f7decbc25041,Enquiry,6,0
+F,Social Media,Jun-2020,9dff1bb3-2059-4c05-89eb-1deb90e530e9,Enquiry,6,0
+F,Web Enquiry,Jun-2020,9f6264f0-b08e-48ff-89c5-1b864870353e,Converted,6,0
+F,College,Apr-2020,9f9235a3-457d-4827-84ad-8d8d0eb510f3,Converted,6,0
+M,Phone,Apr-2020,9f9ef1c7-8c30-4892-8546-0caabc05c328,Converted,4,0
+M,Phone,Feb-2020,a0132f3d-3d19-4693-a89a-1bea793f9fa3,Converted,1,1
+M,Phone,Feb-2020,a0d724bc-3006-4c0b-aabc-404dae8ed5a5,Converted,4,0
+M,College,May-2020,a17f1da3-1e83-490f-96e4-10f8e1cbf27b,Converted,5,0
+F,Social Media,Apr-2020,a33f276f-8687-46d9-b4ee-c16431f9306b,Converted,6,0
+M,Social Media,Apr-2020,a425f53f-8209-4835-96a0-e8b3f222a3b5,Converted,1,1
+M,College,Jan-2020,a48a2378-6040-450b-b50c-45b69a83b9a7,Enquiry,3,0
+M,Walk-in,Apr-2020,a4e5b228-24ff-420d-b1a0-d2f61284c943,Converted,1,1
+F,Email,Apr-2020,a4e63d58-5a35-4f8e-b814-74602ec59a5e,Converted,3,0
+F,Social Media,Feb-2020,a7063821-ba28-45c1-8b35-4f50067fb858,Converted,1,1
+M,Walk-in,Jun-2020,a735fe55-4efa-469c-9fc0-ef59fa1f4045,Converted,3,0
+F,Phone,Apr-2020,a75744c7-2ce5-4bfd-9f27-15ef330e3c32,Enquiry,6,0
+M,Email,Feb-2020,a7718d2f-f279-447a-897b-d3755cd0f2c2,Converted,6,0
+M,Social Media,May-2020,a7db14e9-ceb5-4ef3-8867-edd9c61eda8f,Converted,2,0
+M,Phone,Apr-2020,a7e5a2bc-f9d8-4fdc-82b6-2134da48702e,Converted,6,0
+M,Web Enquiry,Feb-2020,a8023ea4-04d6-45de-85fb-33e0fcb6d51b,Converted,1,1
+F,Phone,Apr-2020,a8e21bf5-8b59-4a7a-92dc-4580491e20cb,Converted,3,0
+M,Phone,Jan-2020,a998f9e4-087c-4a21-9aff-03192a7e480f,Converted,3,0
+F,Social Media,May-2020,aa6768b0-f764-485b-a355-dda17611b67d,Enquiry,2,0
+M,Web Enquiry,Feb-2020,aab3cc2e-5fb2-42e6-83e2-bb15c7b90e20,Converted,3,0
+F,Walk-in,May-2020,aab83e8c-25a9-4eee-be8a-347eff5265ed,Converted,5,0
+M,College,Jan-2020,ab142894-201c-47b2-a94c-721ca27482e7,Converted,6,0
+M,Web Enquiry,Apr-2020,ad4160c3-25b7-4200-aad9-402efd40a6bf,Converted,3,0
+M,Walk-in,Feb-2020,ad74db7b-c630-4a75-bed6-235f0804fedd,Enquiry,6,0
+M,Walk-in,May-2020,aef01d1e-f05b-45ec-913e-918a5ac123e5,Converted,5,0
+M,Phone,Jun-2020,af7829d6-d0a4-4639-b526-8bcdcf3d9298,Enquiry,6,0
+F,Email,May-2020,af96619a-866e-4e85-b585-6c2d842d92a0,Converted,1,1
+M,College,Jan-2020,afdfce63-4a3a-4f1f-b3da-6c449169f4c3,Converted,2,0
+F,Web Enquiry,Feb-2020,b03f5ccb-36fc-42be-b523-9fe7b7301a76,Enquiry,5,0
+M,Social Media,Jan-2020,b0582f20-8870-4a5b-8567-b1ccc7430fc8,Converted,1,1
+M,Phone,May-2020,b0e575de-90db-4d4d-84c9-392a70e8189b,Converted,3,0
+F,College,Apr-2020,b1c19d40-c20a-4ff9-bee2-396a98b119ce,Converted,2,0
+M,Email,May-2020,b3f0ace9-fa3f-4a70-b4aa-ad3dd3b3d667,Enquiry,1,1
+F,Email,Feb-2020,b4811b6f-21db-4007-b960-b42315ef45fa,Converted,1,1
+F,Phone,Apr-2020,b4cf01dd-2640-4278-a0fb-2f15dc817401,Converted,5,0
+M,Phone,Jun-2020,b54b7a63-9ae7-4935-923d-31d0c99760d4,Converted,4,0
+F,College,Mar-2020,b57638d5-f6ef-4a66-a4ee-73a73de0c3c9,Converted,1,1
+M,Social Media,Apr-2020,b6323e69-78db-4d2b-a1cc-63c1504b37db,Enquiry,2,0
+F,Social Media,Apr-2020,b64b355c-5329-4f1f-af6e-3871b34f8e45,Enquiry,1,1
+M,Social Media,May-2020,b707ed36-29c8-4b45-84a6-0f4026bc3ab6,Converted,6,0
+M,Email,May-2020,b73684c4-a9c6-4fd3-9a57-b42d325abd15,Converted,3,0
+M,Web Enquiry,Feb-2020,b91ac486-77cc-4c66-a60a-24542318ff0c,Enquiry,2,0
+F,Email,Apr-2020,ba76f2d0-c1ae-4f1b-95ba-5962ba7c2f5c,Enquiry,5,0
+M,College,Jun-2020,ba79aeea-eb13-4121-b682-09fd037701e9,Converted,6,0
+F,College,Jun-2020,bacab9d6-e7da-4789-b326-0acc3528523d,Converted,1,1
+F,College,Apr-2020,bae4f38a-e2d4-4e63-a709-4bddb55e5987,Converted,6,0
+M,College,Jun-2020,bb1ff4b7-1d40-487b-bdda-f42d249edfe1,Converted,6,0
+F,Social Media,Apr-2020,bb58f26f-f01b-47b7-8856-584611ab9bec,Converted,1,1
+F,Walk-in,Jun-2020,bb8cb87d-808c-453d-b5d0-604c2169452a,Converted,6,0
+M,Web Enquiry,Jan-2020,bbb67edf-1807-488d-9e09-70af562bd693,Enquiry,4,0
+M,College,May-2020,bbd2100c-ce34-42fd-9908-d77bb9bb0952,Enquiry,3,0
+F,Web Enquiry,Apr-2020,bd7b3b7c-a328-4041-9cb7-eccc0283a2ef,Converted,1,1
+F,College,May-2020,bda3becd-3f04-4077-9e39-59289f6c62f7,Converted,5,0
+M,Social Media,Apr-2020,be00b48b-2212-40fe-976f-d3f2d8ecb41f,Converted,6,0
+M,College,Jun-2020,be9637b1-3131-46e8-b75c-6cc01b44ad89,Enquiry,1,1
+M,Social Media,Jan-2020,bf051498-0ac8-4a2b-83b0-60def20d7aa7,Enquiry,6,0
+M,Social Media,May-2020,bf97e594-17e8-4326-b0c7-fcb7e82797ab,Converted,5,0
+M,Walk-in,Jun-2020,bfbb0ac5-fee5-48d4-b441-198e2340d304,Enquiry,6,0
+M,Web Enquiry,Jun-2020,bfff5635-d18e-498c-99f7-c5cb3740a8be,Converted,4,0
+F,Web Enquiry,Jan-2020,c00eb6ae-b5a3-48ba-b352-841a47bbf801,Enquiry,1,1
+M,Web Enquiry,Jan-2020,c0153cf4-b386-403e-9367-8db809e45238,Enquiry,5,0
+M,Web Enquiry,Apr-2020,c1663c57-7cee-4dc2-a66a-62cf925721a7,Converted,2,0
+M,Web Enquiry,Mar-2020,c1eead6b-b0ff-4758-8f60-e6e3b22c00d3,Converted,2,0
+M,Walk-in,Mar-2020,c214cb05-1b1a-4b1e-a77a-6e078bf47e12,Converted,2,0
+M,College,Jun-2020,c2740dcb-f652-4775-9833-8f83e2551024,Converted,1,1
+M,Email,Jun-2020,c2a53551-1452-42d1-b49f-22cf4e4c0235,Converted,1,1
+F,Phone,Apr-2020,c2e3cb9d-06a6-4e76-973e-928ef6305a9e,Converted,2,0
+M,College,Jun-2020,c2fd0aad-221f-42bb-8bb1-117318550183,Enquiry,6,0
+M,Email,May-2020,c410baf9-b5d4-4cb0-a574-d2b10c70bee1,Enquiry,3,0
+M,College,Feb-2020,c437f5cd-3b7f-49aa-8fb6-b44ec62bcbdb,Converted,1,1
+F,Social Media,May-2020,c43f9d59-5f80-43f6-8d34-70e9ff84a319,Enquiry,1,1
+M,Social Media,Jun-2020,c4fe68dc-3c9f-4b19-84ea-5077030d0c5d,Converted,5,0
+F,Social Media,May-2020,c5eb2d30-7bb7-434e-9984-82afd4f5f48e,Enquiry,2,0
+M,Phone,Mar-2020,c69b78f3-7ad7-4df7-800d-82c1ee64c80d,Converted,1,1
+M,Email,Apr-2020,c6ddd9f4-a4fb-4954-8de0-5de6a148e43d,Enquiry,3,0
+M,Walk-in,Jan-2020,c733670d-dc28-48db-a108-3a3c0807c469,Converted,2,0
+F,Phone,May-2020,c79f87c7-886d-45aa-a762-f18a2289ba09,Enquiry,3,0
+M,Phone,Jan-2020,c99f176e-7cce-4069-94ff-a29ec66ab28d,Converted,5,0
+F,Email,May-2020,ca11c7e1-0e39-49c9-af8e-495ef5a3d09d,Converted,1,1
+M,Walk-in,Mar-2020,cb9be18b-55b0-4ca2-802f-84ecebdda30b,Converted,5,0
+F,Social Media,Feb-2020,cc472ebc-6d01-4e3b-9426-8ed7da60766d,Enquiry,3,0
+M,Walk-in,May-2020,cc7a2a06-efa5-4eff-bc3a-edf684516ef4,Converted,2,0
+F,Walk-in,Mar-2020,cd49fa5a-4eb7-4614-b2ce-f2966aa1dc40,Enquiry,4,0
+F,Social Media,Jan-2020,cfccc190-8b70-40ec-bbfa-ab31266b0fd6,Enquiry,1,1
+F,Phone,Apr-2020,cfce2aea-4bcb-4a9d-969d-923479caebca,Converted,5,0
+F,Walk-in,Jan-2020,cfd77d99-b726-4a64-a48a-85d593e43621,Converted,4,0
+M,College,Jan-2020,cfe5640d-c0fa-493f-8275-32fcf7c3cb45,Enquiry,4,0
+F,Walk-in,May-2020,d05e3714-c427-43b3-8467-a889bc9359a3,Converted,1,1
+M,College,May-2020,d11ceaa0-6415-49f3-a36a-8ae8dd0cf481,Converted,5,0
+M,Phone,Feb-2020,d1d01833-7860-4d3f-abc8-c716ed93d4e5,Converted,4,0
+M,College,May-2020,d20edeb7-a2f2-4205-a136-62101e89728a,Converted,4,0
+M,Phone,Mar-2020,d26c8c25-c890-48f4-92db-4811a6b62801,Converted,4,0
+F,Phone,Apr-2020,d2f01cd6-5994-427a-b888-f23665a6bb55,Enquiry,1,1
+M,Phone,May-2020,d2f5ff8b-ba55-43ce-95ca-3c14dd886ced,Converted,1,1
+F,Phone,Apr-2020,d3b85a6a-236e-45cd-8812-a70c849fd2b7,Converted,5,0
+F,Walk-in,Jan-2020,d3bcc682-fd7f-4850-a3ec-78b55e1d82d1,Converted,1,1
+M,Email,Feb-2020,d3f67b9c-53ee-4434-826e-9e26389466dc,Converted,6,0
+M,Web Enquiry,May-2020,d414c029-8c90-428a-a406-6572d61c3aa4,Converted,1,1
+M,College,Mar-2020,d54fc2e7-fde7-46e6-9b62-f4f64ce623aa,Enquiry,6,0
+F,Social Media,Mar-2020,d5f73ef9-f4d0-4813-97fb-bd724b8a680a,Converted,5,0
+F,Social Media,May-2020,d62aafa2-f6d7-4dc3-b543-664119a0d548,Converted,1,1
+M,Walk-in,Jun-2020,d63d8c89-715a-4f9e-bb98-a9433ff77d08,Enquiry,2,0
+M,Social Media,May-2020,d6c41be7-ef65-4cbd-8572-caba5e4aed7b,Converted,4,0
+M,Phone,Apr-2020,d707db1a-e836-4f18-99e0-6828c49a1882,Enquiry,4,0
+F,Email,Jun-2020,d73ae6c5-0ebc-4b8d-9c07-9d9b4d21f759,Converted,2,0
+M,Social Media,Jun-2020,d843d40e-a317-4b09-a39d-85cf693ea9dd,Converted,5,0
+F,Walk-in,Mar-2020,d8843432-6411-4429-b1a2-00657e12284f,Converted,1,1
+M,Social Media,Feb-2020,d88894a4-0c03-4342-9d7d-68c7dfd0104f,Converted,6,0
+M,Phone,Feb-2020,d8f43a6d-1c1e-4242-a654-83c0d3c2dafa,Converted,4,0
+M,Web Enquiry,Mar-2020,db5a9e65-99cf-4293-8867-faf570b53574,Enquiry,2,0
+M,Web Enquiry,Jan-2020,dbb9785f-64ea-48e0-a7d3-e9120618e526,Converted,6,0
+M,Phone,Apr-2020,dc13c56b-e611-45d9-9f51-841b7ffac2ed,Enquiry,3,0
+F,College,Apr-2020,dd14fdd9-79ff-4ead-b24e-edcc60e4e7a8,Enquiry,4,0
+M,College,Feb-2020,dd4ef1c1-fb1f-4d8e-981d-b0129ce1e008,Enquiry,5,0
+F,College,Apr-2020,dd830307-6b51-4ea1-bc18-c3060bad9dab,Converted,1,1
+M,Email,Jan-2020,ddb2d12d-9ae2-4501-9e21-68523d6ec9a9,Converted,3,0
+M,Email,Feb-2020,de7af07b-1de7-4e77-8524-6c9497e4e310,Converted,4,0
+F,Web Enquiry,Mar-2020,de88a8b3-a0b4-4af7-b766-886c6eb57e69,Converted,4,0
+M,Phone,Jun-2020,df1606a8-3e1e-4488-bd74-d4415b34a12b,Converted,6,0
+M,Web Enquiry,Mar-2020,dfbefc7d-a798-45ff-b0ff-6a34eb0b771e,Enquiry,3,0
+F,Web Enquiry,Apr-2020,e026cf02-942f-426a-aa20-370dd83316c5,Converted,2,0
+M,College,Jun-2020,e056098a-f879-48f0-aad0-d0e4e343fa21,Converted,5,0
+F,College,May-2020,e1dd8e38-bdfe-4837-afe2-09f13354fe46,Converted,1,1
+M,College,May-2020,e2359139-67e1-4324-a485-c39a14db6a99,Converted,1,1
+M,Phone,Jan-2020,e26a9c78-c878-4995-9d23-475cd8d1b12a,Enquiry,6,0
+F,Walk-in,Jun-2020,e4bb66d2-8180-4622-aba1-7db93480f71f,Enquiry,3,0
+F,Walk-in,Mar-2020,e5dbba84-d79e-45d1-85c1-a3a8f4628672,Converted,6,0
+M,Phone,Jan-2020,e5f89bf6-d6fb-4543-8eae-2775419b907f,Converted,5,0
+F,Social Media,Feb-2020,e633bad0-9be0-4547-977b-b418a290231e,Converted,6,0
+M,Web Enquiry,Jun-2020,e75ce186-086a-42a8-afce-24a1b43b5063,Converted,2,0
+M,Email,Feb-2020,e7cb84b7-e36f-4676-93ad-fbde71061fc9,Converted,6,0
+M,Web Enquiry,Jan-2020,e813ed1d-122b-452d-b2e0-9b0b5d033052,Converted,6,0
+M,Email,May-2020,e996b33c-a3ed-4059-8dc8-3b4153b4622a,Converted,3,0
+M,Phone,Feb-2020,ea0be3e0-24fa-41d5-8e8c-1a81988e37dc,Converted,2,0
+M,Web Enquiry,Feb-2020,ea178791-d41f-438a-a742-c3bb7d83901e,Converted,1,1
+M,College,May-2020,eadbcc3d-9b29-4c92-8b6b-d8787f34e53d,Converted,2,0
+M,Email,May-2020,eb3cde12-9f81-4f7f-baac-3a4418552e01,Converted,6,0
+F,Phone,Feb-2020,eb88fc55-8f5f-43eb-9e97-9190ad327a87,Enquiry,1,1
+M,Email,Feb-2020,ebc6aca2-67b4-4064-a5c4-658fab4de961,Enquiry,4,0
+M,College,Feb-2020,ec2c2d6d-7fff-4933-80a2-3fbfae730db4,Converted,6,0
+F,Web Enquiry,May-2020,ec5eec81-a925-4fdc-b50f-866eb748caad,Converted,1,1
+F,Email,Feb-2020,ec7f1334-c90d-4173-98cd-740bc0bc3ce3,Converted,1,1
+F,Walk-in,Jun-2020,ee33010d-462e-46a1-9a7d-ef8e8fa52750,Converted,1,1
+F,Web Enquiry,Apr-2020,ee8bccb0-3b87-4b0a-b058-62bd47d1ff35,Converted,5,0
+F,Web Enquiry,May-2020,eeab9a69-4379-476e-9380-b6aa0b57ec26,Converted,4,0
+M,Web Enquiry,Mar-2020,eebb27f7-93db-4f40-9d50-60093f7d64a0,Converted,6,0
+F,Email,Feb-2020,efe6155b-5076-4a17-bcca-498db28ef1ac,Enquiry,6,0
+M,Social Media,May-2020,f049fc22-d963-465e-8ff5-db2d676e3dda,Enquiry,2,0
+F,Email,Feb-2020,f0598ef1-f886-4375-b62c-94fd680dea94,Enquiry,3,0
+F,Social Media,Jun-2020,f08c2732-5328-4d01-bf6d-c0510bfd7e88,Enquiry,2,0
+M,Social Media,Apr-2020,f0ae810d-c9d1-48b7-a08f-ad6d5f91d3d4,Enquiry,6,0
+M,Web Enquiry,Jan-2020,f0f8686f-fb97-4f83-b214-1b8b4567e427,Converted,4,0
+M,Web Enquiry,May-2020,f14d6edf-9a0c-4c09-8af6-60144f86943e,Converted,2,0
+M,Phone,Apr-2020,f1834b33-2751-4d97-a27f-fdc3f209a631,Converted,2,0
+F,Social Media,Feb-2020,f2033762-16f9-4ab9-8b38-47a8e1cf6395,Converted,3,0
+M,Walk-in,Jan-2020,f25978dd-1b8e-4c49-9503-7301220464d8,Enquiry,6,0
+M,Social Media,Jan-2020,f2e65117-6f79-4f78-ad0d-0551ace62aa5,Converted,2,0
+F,Walk-in,Apr-2020,f3ebdf1b-61b1-4d2a-95c3-73de33eaaa94,Converted,3,0
+F,College,May-2020,f463f28d-d72b-469c-972b-d0a61b420eb3,Enquiry,1,1
+M,Web Enquiry,Mar-2020,f5601dc5-4a7e-4a14-a0a7-485bda40b37a,Converted,1,1
+M,Phone,Jun-2020,f5f1cf5a-7969-4e5c-901d-ae69dcf970ea,Converted,5,0
+M,Phone,Jan-2020,f5f7f44b-4ec4-4d8d-ad6c-5c44f922f422,Enquiry,3,0
+M,Social Media,May-2020,f6501ec8-c433-4734-83db-da3b92d9acf8,Converted,2,0
+M,Social Media,Jan-2020,f676883f-07c5-4560-a0a6-e4fbb65a7884,Converted,4,0
+F,Web Enquiry,Jan-2020,f70e54c5-57db-4a93-8607-a6ba174a9865,Enquiry,3,0
+F,Web Enquiry,Feb-2020,f72459e1-a315-44ed-815d-6a446464e8a9,Enquiry,3,0
+M,College,May-2020,f8030bc9-1fea-41af-bb14-86ea5c49f5ae,Converted,6,0
+M,Email,Apr-2020,f87d705f-1dce-4f40-b82b-4465cc55d694,Converted,2,0
+F,Phone,Jan-2020,f886a26f-31da-4c1a-adfa-99be18440ac8,Converted,3,0
+F,Walk-in,May-2020,f8970b74-ed30-40c6-821f-e7ec9eee5058,Enquiry,1,1
+M,Social Media,Mar-2020,f9ae924c-c3d0-452c-b0b6-5521f1a26ff8,Converted,1,1
+F,Social Media,Apr-2020,faad4c3c-58da-471a-99ec-ccaf32dd04f6,Converted,2,0
+F,College,Apr-2020,faf8b02a-bd56-4c0b-a2db-177abc5e301e,Converted,3,0
+M,College,Jan-2020,fb514742-e12b-496c-8054-641b42607e73,Converted,3,0
+M,Email,Apr-2020,fbfce215-6dcb-4f8c-a30e-9d4398e937d0,Converted,6,0
+M,Web Enquiry,Apr-2020,fd5746df-a877-4d84-9b61-45c0d166fb3e,Converted,2,0
+F,Phone,Jan-2020,fe11be32-338e-48fc-b1f6-261d5fae02e1,Converted,5,0
+M,Web Enquiry,Jan-2020,fe1c625f-8a62-44c5-bfe2-106ec5cbc797,Converted,4,0
+M,Phone,May-2020,fe2af629-d148-4bd8-af94-35cc601d04c7,Enquiry,5,0
+F,Web Enquiry,Feb-2020,feaedb77-05c5-4baa-b48a-5a891ab1b64a,Converted,1,1
+M,Walk-in,Jan-2020,ff055e16-56cf-41aa-9fa3-8c0c72377d28,Converted,4,0
+F,Web Enquiry,May-2020,ff36a49b-f2d9-4903-8125-121f9130ce20,Enquiry,3,0
+M,Email,Feb-2020,ffc28a62-33aa-4a62-854a-26cdd768da92,Enquiry,3,0

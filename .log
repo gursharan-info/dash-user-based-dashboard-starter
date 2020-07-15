@@ -1,0 +1,48 @@
+DEBUG:shapely.geos:Found GEOS DLL: <CDLL '/home/meenakshi/dyreid/lib/python3.6/site-packages/shapely/.libs/libgeos_c-5031f9ac.so.1.13.1', handle 7f3a856cd660 at 0x7f3a8b844a90>, using it.
+DEBUG:shapely.geos:Trying `CDLL(libc.so.6)`
+DEBUG:shapely.geos:Library path: 'libc.so.6'
+DEBUG:shapely.geos:DLL: <CDLL 'libc.so.6', handle 7f3a91452000 at 0x7f3a8b844c50>
+DEBUG:fiona.env:PROJ data files are available at built-in paths
+DEBUG:fiona.env:Entering env context: <fiona.env.Env object at 0x7f3a68a5ef28>
+DEBUG:fiona.env:Starting outermost env
+DEBUG:fiona.env:No GDAL environment exists
+DEBUG:fiona.env:New GDAL environment <fiona._env.GDALEnv object at 0x7f3a68a5ef98> created
+DEBUG:fiona._env:Logging error handler pushed.
+DEBUG:fiona._env:All drivers registered.
+DEBUG:fiona._env:GDAL_DATA found in environment: '/home/meenakshi/dyreid/lib/python3.6/site-packages/fiona/gdal_data'.
+DEBUG:fiona._env:PROJ data files are available at built-in paths
+DEBUG:fiona._env:Started GDALEnv <fiona._env.GDALEnv object at 0x7f3a68a5ef98>.
+DEBUG:fiona.env:Updated existing <fiona._env.GDALEnv object at 0x7f3a68a5ef98> with options {}
+DEBUG:fiona.env:Entered env context: <fiona.env.Env object at 0x7f3a68a5ef28>
+DEBUG:fiona.env:Exiting env context: <fiona.env.Env object at 0x7f3a68a5ef28>
+DEBUG:fiona.env:Cleared existing <fiona._env.GDALEnv object at 0x7f3a68a5ef98> options
+DEBUG:fiona._env:Stopping GDALEnv <fiona._env.GDALEnv object at 0x7f3a68a5ef98>.
+DEBUG:fiona._env:Error handler popped.
+DEBUG:fiona._env:Stopped GDALEnv <fiona._env.GDALEnv object at 0x7f3a68a5ef98>.
+DEBUG:fiona.env:Exiting outermost env
+DEBUG:fiona.env:Exited env context: <fiona.env.Env object at 0x7f3a68a5ef28>
+INFO:werkzeug: * Detected change in '/home/meenakshi/dyreid_dashboard/app.py', reloading
+DEBUG:shapely.geos:Found GEOS DLL: <CDLL '/home/meenakshi/dyreid/lib/python3.6/site-packages/shapely/.libs/libgeos_c-5031f9ac.so.1.13.1', handle 7f6bad6c9c60 at 0x7f6bb1864a90>, using it.
+DEBUG:shapely.geos:Trying `CDLL(libc.so.6)`
+DEBUG:shapely.geos:Library path: 'libc.so.6'
+DEBUG:shapely.geos:DLL: <CDLL 'libc.so.6', handle 7f6bb7432000 at 0x7f6bb1864c50>
+DEBUG:fiona.env:PROJ data files are available at built-in paths
+DEBUG:fiona.env:Entering env context: <fiona.env.Env object at 0x7f6b8ee28f28>
+DEBUG:fiona.env:Starting outermost env
+DEBUG:fiona.env:No GDAL environment exists
+DEBUG:fiona.env:New GDAL environment <fiona._env.GDALEnv object at 0x7f6b8ee28f98> created
+DEBUG:fiona._env:Logging error handler pushed.
+DEBUG:fiona._env:All drivers registered.
+DEBUG:fiona._env:GDAL_DATA found in environment: '/home/meenakshi/dyreid/lib/python3.6/site-packages/fiona/gdal_data'.
+DEBUG:fiona._env:PROJ data files are available at built-in paths
+DEBUG:fiona._env:Started GDALEnv <fiona._env.GDALEnv object at 0x7f6b8ee28f98>.
+DEBUG:fiona.env:Updated existing <fiona._env.GDALEnv object at 0x7f6b8ee28f98> with options {}
+DEBUG:fiona.env:Entered env context: <fiona.env.Env object at 0x7f6b8ee28f28>
+DEBUG:fiona.env:Exiting env context: <fiona.env.Env object at 0x7f6b8ee28f28>
+DEBUG:fiona.env:Cleared existing <fiona._env.GDALEnv object at 0x7f6b8ee28f98> options
+DEBUG:fiona._env:Stopping GDALEnv <fiona._env.GDALEnv object at 0x7f6b8ee28f98>.
+DEBUG:fiona._env:Error handler popped.
+DEBUG:fiona._env:Stopped GDALEnv <fiona._env.GDALEnv object at 0x7f6b8ee28f98>.
+DEBUG:fiona.env:Exiting outermost env
+DEBUG:fiona.env:Exited env context: <fiona.env.Env object at 0x7f6b8ee28f28>
+INFO:werkzeug: * Detected change in '/home/meenakshi/dyreid_dashboard/app.py', reloading

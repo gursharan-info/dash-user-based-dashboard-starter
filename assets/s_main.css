@@ -1,0 +1,184 @@
+
+.pretty_container {
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    margin: 0 10px 10px 10px;
+    padding: 5px;
+    /* position: relative; */
+    box-shadow: 2px 2px 2px lightgrey;
+}
+
+.DateRangePickerInput .DateInput {
+    width: 45%;
+}
+
+._dash-loading {
+  text-indent: -9999em;
+}
+._dash-loading-callback{
+  position: absolute; z-index: 1; top: 30%; right: 50%;
+}
+
+.loading-spinner-class {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  font-size: 2rem;
+  color: #24449c;
+  height: 5rem;
+  width: 5rem
+}
+
+.DateRangePickerInput .DateInput .DateInput_input {
+    line-height: 18px !important;
+    padding: 7px 7px 4px;
+    font-size: 18px;
+}
+.filter-col .form-group {
+  margin-bottom: 0.2rem;
+}
+.slider_range {
+    padding: 10px 5px 10px !important;
+}
+
+.age_output {
+    padding: 6px 0px;
+}
+
+/* .DateInput_input {
+    font-weight: 200;
+    font-size: 17px;
+} */
+
+.small_container {
+    padding: 20px 0px 0px 20px;
+    position: relative;
+}
+
+  .DateInput_input {
+    padding: 8px 8px 6px;
+    line-height: 20px;
+  }
+
+  .filter-col {
+      margin-top: 5px;
+  }
+
+.my-custom-scrollbar {
+    position: relative;
+    height: 65vh; 
+    overflow: auto;
+    -ms-overflow-style: none; /* IE 11 */
+    scrollbar-width: none; /* Firefox 64 */
+
+}
+    .table-wrapper-scroll-y {
+    display: block;
+  }
+
+  .hidden {
+    display: none;
+  }
+  .visible {
+    display: block;
+  }
+
+/* ::-webkit-scrollbar {
+    display: none;
+} */
+
+
+  .table-condensed td, .table-condensed th {
+    padding: .4rem;
+    
+}
+
+.login-page {
+  background-image: url('login_background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  font-family: 'Numans', sans-serif;
+}
+
+.container{
+  height: 100vh;
+  align-content: center;
+  }
+  
+.login-card{
+  position: absolute;
+  top: 15rem;
+  height: 30rem;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 30rem;
+  background-color: rgba(160,180,202,0.7) !important;
+}
+    
+.card-header h3{
+  color: white;
+}  
+
+/* .login-card .card-header {
+  background-color: white;
+}  */
+ 
+.input-group-prepend span{
+  width: 50px;
+  background-color: #FFC312;
+  color: black;
+  border:0 !important;
+}
+  
+input:focus{
+  outline: 0 0 0 0  !important;
+  box-shadow: 0 0 0 0 !important;
+}
+  
+.remember{
+  color: white;
+}
+  
+.remember input
+{
+  width: 20px;
+  height: 20px;
+  margin-left: 15px;
+  margin-right: 5px;
+}
+  
+.login_btn{
+  color: black;
+  background-color: #FFC312;
+  width: 100px;
+}
+.cancel_btn{
+  color: black;
+  background-color: #D3D3D3;
+  width: 100px;
+  margin-top: 0.5rem;
+}
+  
+.login_btn:hover{
+  color: black;
+  background-color: white;
+}
+.cancel_btn:hover{
+  color: black;
+  background-color: white;
+}
+  
+.links{
+  color: white;
+}
+  
+.links a{
+  margin-left: 4px;
+}
+
+.restriction-box {
+  margin-left: 1rem !important;
+  margin-top: 1rem !important;
+  padding: 4rem !important;
+}
