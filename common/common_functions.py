@@ -8,10 +8,8 @@ import time, json, os
 from dateutil.relativedelta import relativedelta
 from sqlalchemy import create_engine
 import numpy as np
-from shapely.geometry import LineString, MultiLineString
 from urllib.parse import parse_qs
 from common import constants as const
-from sqlalchemy.orm import sessionmaker
 from flask import request
 
 
