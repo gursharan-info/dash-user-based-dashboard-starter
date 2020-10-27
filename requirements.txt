@@ -9,4 +9,4 @@ plotly==4.6.0
 pandas==1.0.3
 python-dotenv==0.13.0
 requests==2.23.0
-cryptography==2.9.2
+cryptography==3.2
